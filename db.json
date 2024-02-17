@@ -4,7 +4,7 @@
       {
         "id": 1,
         "name": "Spaghetti Carbonara",
-        "photo_URL": "https://example.com/spaghetti_carbonara.jpg",
+        "photo_URL": "https://static01.nyt.com/images/2021/02/14/dining/carbonara-horizontal/carbonara-horizontal-master768-v2.jpg?w=1280&q=75",
         "duration": "30 minutes",
         "ingredients": ["spaghetti", "eggs", "bacon", "Parmesan cheese", "black pepper"],
         "quantity": ["300g", "2", "150g", "50g", "to taste"],
@@ -16,7 +16,7 @@
       {
         "id": 2,
         "name": "Chicken Stir-Fry",
-        "photo_URL": "https://example.com/chicken_stir_fry.jpg",
+        "photo_URL": "https://www.allrecipes.com/thmb/wbWfb-cXCq1yd6NlpJR7z5Nr1Wc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/240708-broccoli-and-chicken-stir-fry-DDMFS-4x3-27886203cb2744f99d15247496019942.jpg",
         "duration": "25 minutes",
         "ingredients": ["chicken breast", "bell peppers", "onion", "soy sauce", "garlic"],
         "quantity": ["500g", "2", "1", "3 tbsp", "3 cloves"],
@@ -28,7 +28,7 @@
       {
         "id": 3,
         "name": "Caprese Salad",
-        "photo_URL": "https://example.com/caprese_salad.jpg",
+        "photo_URL": "https://i2.wp.com/www.downshiftology.com/wp-content/uploads/2019/07/Caprese-Salad-main-1.jpg",
         "duration": "10 minutes",
         "ingredients": ["tomatoes", "fresh mozzarella", "fresh basil", "balsamic vinegar", "olive oil"],
         "quantity": ["4", "200g", "1 bunch", "2 tbsp", "2 tbsp"],
@@ -40,7 +40,7 @@
       {
         "id": 4,
         "name": "Beef Tacos",
-        "photo_URL": "https://example.com/beef_tacos.jpg",
+        "photo_URL": "https://danosseasoning.com/wp-content/uploads/2022/03/Beef-Tacos-768x575.jpg",
         "duration": "20 minutes",
         "ingredients": ["ground beef", "taco seasoning", "tortillas", "lettuce", "tomatoes"],
         "quantity": ["500g", "1 packet", "8", "1 cup shredded", "2"],
@@ -52,7 +52,7 @@
       {
         "id": 5,
         "name": "Vegetable Curry",
-        "photo_URL": "https://example.com/vegetable_curry.jpg",
+        "photo_URL": "https://www.indianhealthyrecipes.com/wp-content/uploads/2023/07/vegetable-curry-recipe.jpg",
         "duration": "40 minutes",
         "ingredients": ["potatoes", "carrots", "onion", "coconut milk", "curry paste"],
         "quantity": ["2", "2", "1", "400ml", "3 tbsp"],
@@ -64,7 +64,7 @@
       {
         "id": 6,
         "name": "Grilled Salmon",
-        "photo_URL": "https://example.com/grilled_salmon.jpg",
+        "photo_URL": "https://www.acouplecooks.com/wp-content/uploads/2020/05/Grilled-Salmon-015-1.jpg",
         "duration": "15 minutes",
         "ingredients": ["salmon fillets", "lemon", "olive oil", "garlic", "salt"],
         "quantity": ["4", "1", "2 tbsp", "2 cloves", "to taste"],
@@ -76,7 +76,7 @@
       {
         "id": 7,
         "name": "Mushroom Risotto",
-        "photo_URL": "https://example.com/mushroom_risotto.jpg",
+        "photo_URL": "https://www.annarecetasfaciles.com/files/risotto-setas-1-2-scaled.jpg",
         "duration": "35 minutes",
         "ingredients": ["Arborio rice", "mushrooms", "onion", "vegetable broth", "Parmesan cheese"],
         "quantity": ["1 cup", "200g", "1", "4 cups", "50g"],
@@ -88,7 +88,7 @@
       {
         "id": 8,
         "name": "Beef Stew",
-        "photo_URL": "https://example.com/beef_stew.jpg",
+        "photo_URL": "https://www.allrecipes.com/thmb/qbGGkvMvNjvwUGd5mpaiVAIMTpg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/263037-instant-pot-beef-stew-mfs-beauty-4x3-BP-2467-3e45373d48544a7caf708248751a4c1c.jpg",
         "duration": "2 hours",
         "ingredients": ["beef stew meat", "potatoes", "carrots", "onion", "beef broth"],
         "quantity": ["500g", "3", "2", "1", "4 cups"],
@@ -100,7 +100,7 @@
     {
       "id": 9,
       "name": "Chicken Caesar Salad",
-      "photo_URL": "https://example.com/chicken_caesar_salad.jpg",
+      "photo_URL": "https://www.jessicagavin.com/wp-content/uploads/2022/06/chicken-caesar-salad-28-1200.jpg",
       "duration": "20 minutes",
       "ingredients": ["chicken breast", "romaine lettuce", "Parmesan cheese", "croutons", "Caesar dressing"],
       "quantity": ["2", "1 head", "50g", "1 cup", "1/2 cup"],
@@ -112,7 +112,7 @@
     {
       "id": 10,
       "name": "Penne alla Vodka",
-      "photo_URL": "https://example.com/penne_alla_vodka.jpg",
+      "photo_URL": "https://natashaskitchen.com/wp-content/uploads/2023/02/Penne-alla-Vodka-SQ.jpg",
       "duration": "35 minutes",
       "ingredients": ["penne pasta", "vodka", "heavy cream", "canned tomatoes", "garlic"],
       "quantity": ["300g", "1/4 cup", "1 cup", "400g", "3 cloves"],
@@ -124,7 +124,7 @@
     {
       "id": 11,
       "name": "Quinoa Salad",
-      "photo_URL": "https://example.com/quinoa_salad.jpg",
+      "photo_URL": "https://cdn.loveandlemons.com/wp-content/uploads/2020/08/quinoa-salad.jpg",
       "duration": "25 minutes",
       "ingredients": ["quinoa", "cucumber", "cherry tomatoes", "red onion", "avocado"],
       "quantity": ["1 cup", "1", "1 cup", "1/2", "1"],
@@ -136,7 +136,7 @@
     {
       "id": 12,
       "name": "Vegetable Stir-Fry",
-      "photo_URL": "https://example.com/vegetable_stir_fry.jpg",
+      "photo_URL": "https://natashaskitchen.com/wp-content/uploads/2020/08/Vegetable-Stir-Fry-2.jpg",
       "duration": "20 minutes",
       "ingredients": ["tofu", "broccoli", "bell peppers", "carrots", "soy sauce"],
       "quantity": ["200g", "1 head", "2", "2", "3 tbsp"],
@@ -148,7 +148,7 @@
     {
       "id": 13,
       "name": "Chickpea Curry",
-      "photo_URL": "https://example.com/chickpea_curry.jpg",
+      "photo_URL": "https://www.indianhealthyrecipes.com/wp-content/uploads/2022/06/chickpea-curry-recipe.jpg",
       "duration": "30 minutes",
       "ingredients": ["chickpeas", "onion", "tomato", "coconut milk", "curry powder"],
       "quantity": ["2 cans", "1", "2", "400ml", "2 tbsp"],
@@ -160,7 +160,7 @@
     {
       "id": 14,
       "name": "Vegan Lentil Soup",
-      "photo_URL": "https://example.com/vegan_lentil_soup.jpg",
+      "photo_URL": "https://www.eatingwell.com/thmb/dLzQYccTdptLLN_-3KPjWnF9sCQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/vegan-medit-lentil-soup-1244-24a3c52cba884b00867fd834988c52b0.jpg",
       "duration": "40 minutes",
       "ingredients": ["lentils", "carrots", "celery", "onion", "vegetable broth"],
       "quantity": ["1 cup", "2", "2", "1", "4 cups"],
@@ -172,7 +172,7 @@
     {
       "id": 15,
       "name": "Mediterranean Chickpea Salad",
-      "photo_URL": "https://example.com/mediterranean_chickpea_salad.jpg",
+      "photo_URL": "https://joyfoodsunshine.com/wp-content/uploads/2022/07/mediterranean-chickpea-salad-recipe-1x1-1.jpg",
       "duration": "15 minutes",
       "ingredients": ["chickpeas", "cucumber", "red bell pepper", "red onion", "kalamata olives"],
       "quantity": ["1 can", "1", "1", "1/2", "1/4 cup"],
