@@ -1,0 +1,185 @@
+{
+  "Recipes":
+    [
+      {
+        "id": 1,
+        "name": "Spaghetti Carbonara",
+        "photo_URL": "https://example.com/spaghetti_carbonara.jpg",
+        "duration": "30 minutes",
+        "ingredients": ["spaghetti", "eggs", "bacon", "Parmesan cheese", "black pepper"],
+        "quantity": ["300g", "2", "150g", "50g", "to taste"],
+        "preparation": "Boil spaghetti until al dente. In a separate pan, fry bacon until crispy. Mix eggs with Parmesan cheese. Combine cooked spaghetti with egg mixture and crispy bacon. Season with black pepper.",
+        "description": "Classic Italian pasta dish with a creamy sauce made from eggs and Parmesan cheese, topped with crispy bacon.",
+        "servings": 4,
+        "tags": ["Italian", "pasta", "comfort food"]
+      },
+      {
+        "id": 2,
+        "name": "Chicken Stir-Fry",
+        "photo_URL": "https://example.com/chicken_stir_fry.jpg",
+        "duration": "25 minutes",
+        "ingredients": ["chicken breast", "bell peppers", "onion", "soy sauce", "garlic"],
+        "quantity": ["500g", "2", "1", "3 tbsp", "3 cloves"],
+        "preparation": "Slice chicken breast and stir-fry in a pan with chopped garlic until browned. Add sliced bell peppers and onion. Cook until vegetables are tender. Stir in soy sauce.",
+        "description": "Quick and flavorful stir-fry with tender chicken, crisp vegetables, and a savory soy sauce.",
+        "servings": 3,
+        "tags": ["Asian", "stir-fry", "chicken"]
+      },
+      {
+        "id": 3,
+        "name": "Caprese Salad",
+        "photo_URL": "https://example.com/caprese_salad.jpg",
+        "duration": "10 minutes",
+        "ingredients": ["tomatoes", "fresh mozzarella", "fresh basil", "balsamic vinegar", "olive oil"],
+        "quantity": ["4", "200g", "1 bunch", "2 tbsp", "2 tbsp"],
+        "preparation": "Slice tomatoes and fresh mozzarella. Arrange alternating slices on a plate. Garnish with fresh basil leaves. Drizzle with balsamic vinegar and olive oil.",
+        "description": "Simple and refreshing salad with ripe tomatoes, creamy mozzarella, and fragrant basil, drizzled with balsamic vinegar and olive oil.",
+        "servings": 2,
+        "tags": ["Italian", "salad", "vegetarian"]
+      },
+      {
+        "id": 4,
+        "name": "Beef Tacos",
+        "photo_URL": "https://example.com/beef_tacos.jpg",
+        "duration": "20 minutes",
+        "ingredients": ["ground beef", "taco seasoning", "tortillas", "lettuce", "tomatoes"],
+        "quantity": ["500g", "1 packet", "8", "1 cup shredded", "2"],
+        "preparation": "Cook ground beef in a skillet, then stir in taco seasoning. Warm tortillas. Assemble tacos with beef, lettuce, and diced tomatoes.",
+        "description": "Classic Mexican dish featuring seasoned ground beef stuffed into warm tortillas, topped with crisp lettuce and juicy tomatoes.",
+        "servings": 4,
+        "tags": ["Mexican", "tacos", "beef"]
+      },
+      {
+        "id": 5,
+        "name": "Vegetable Curry",
+        "photo_URL": "https://example.com/vegetable_curry.jpg",
+        "duration": "40 minutes",
+        "ingredients": ["potatoes", "carrots", "onion", "coconut milk", "curry paste"],
+        "quantity": ["2", "2", "1", "400ml", "3 tbsp"],
+        "preparation": "Dice potatoes and carrots. Chop onion. Cook vegetables in a pot with curry paste and coconut milk until tender.",
+        "description": "A fragrant and comforting curry with tender potatoes, sweet carrots, and onions in a creamy coconut sauce infused with curry spices.",
+        "servings": 4,
+        "tags": ["Indian", "curry", "vegetarian"]
+      },
+      {
+        "id": 6,
+        "name": "Grilled Salmon",
+        "photo_URL": "https://example.com/grilled_salmon.jpg",
+        "duration": "15 minutes",
+        "ingredients": ["salmon fillets", "lemon", "olive oil", "garlic", "salt"],
+        "quantity": ["4", "1", "2 tbsp", "2 cloves", "to taste"],
+        "preparation": "Rub salmon fillets with minced garlic, olive oil, and salt. Grill until fish is cooked through. Serve with lemon wedges.",
+        "description": "Juicy grilled salmon seasoned with garlic and lemon, perfect for a quick and healthy dinner option.",
+        "servings": 2,
+        "tags": ["Seafood", "grilled", "healthy"]
+      },
+      {
+        "id": 7,
+        "name": "Mushroom Risotto",
+        "photo_URL": "https://example.com/mushroom_risotto.jpg",
+        "duration": "35 minutes",
+        "ingredients": ["Arborio rice", "mushrooms", "onion", "vegetable broth", "Parmesan cheese"],
+        "quantity": ["1 cup", "200g", "1", "4 cups", "50g"],
+        "preparation": "Sauté chopped onion and sliced mushrooms. Add Arborio rice and stir until coated. Gradually add vegetable broth while stirring until rice is cooked. Stir in grated Parmesan cheese.",
+        "description": "Creamy and savory risotto infused with the earthy flavors of mushrooms and finished with a touch of Parmesan cheese.",
+        "servings": 3,
+        "tags": ["Italian", "risotto", "vegetarian"]
+      },
+      {
+        "id": 8,
+        "name": "Beef Stew",
+        "photo_URL": "https://example.com/beef_stew.jpg",
+        "duration": "2 hours",
+        "ingredients": ["beef stew meat", "potatoes", "carrots", "onion", "beef broth"],
+        "quantity": ["500g", "3", "2", "1", "4 cups"],
+        "preparation": "Brown beef stew meat in a pot. Add chopped potatoes, carrots, and onion. Pour in beef broth. Simmer until meat is tender and vegetables are cooked.",
+        "description": "Hearty and comforting stew with tender beef, potatoes, and carrots simmered in a rich and flavorful broth.",
+        "servings": 6,
+        "tags": ["Stew", "beef", "comfort food"]
+      },
+    {
+      "id": 9,
+      "name": "Chicken Caesar Salad",
+      "photo_URL": "https://example.com/chicken_caesar_salad.jpg",
+      "duration": "20 minutes",
+      "ingredients": ["chicken breast", "romaine lettuce", "Parmesan cheese", "croutons", "Caesar dressing"],
+      "quantity": ["2", "1 head", "50g", "1 cup", "1/2 cup"],
+      "preparation": "Grill chicken breast until cooked through. Chop romaine lettuce and slice chicken. Toss lettuce with grated Parmesan cheese, croutons, sliced chicken, and Caesar dressing.",
+      "description": "A classic salad featuring grilled chicken, crisp romaine lettuce, crunchy croutons, and tangy Caesar dressing.",
+      "servings": 2,
+      "tags": ["Salad", "chicken", "Caesar"]
+    },
+    {
+      "id": 10,
+      "name": "Penne alla Vodka",
+      "photo_URL": "https://example.com/penne_alla_vodka.jpg",
+      "duration": "35 minutes",
+      "ingredients": ["penne pasta", "vodka", "heavy cream", "canned tomatoes", "garlic"],
+      "quantity": ["300g", "1/4 cup", "1 cup", "400g", "3 cloves"],
+      "preparation": "Cook penne pasta until al dente. In a separate pan, simmer minced garlic in vodka. Add canned tomatoes and heavy cream. Toss cooked pasta in the sauce.",
+      "description": "A creamy and indulgent pasta dish featuring penne tossed in a rich vodka-infused tomato cream sauce.",
+      "servings": 4,
+      "tags": ["Italian", "pasta", "creamy"]
+    },
+    {
+      "id": 11,
+      "name": "Quinoa Salad",
+      "photo_URL": "https://example.com/quinoa_salad.jpg",
+      "duration": "25 minutes",
+      "ingredients": ["quinoa", "cucumber", "cherry tomatoes", "red onion", "avocado"],
+      "quantity": ["1 cup", "1", "1 cup", "1/2", "1"],
+      "preparation": "Cook quinoa according to package instructions. Chop cucumber, cherry tomatoes, and red onion. Mix cooked quinoa with chopped vegetables and diced avocado.",
+      "description": "A nutritious and colorful salad featuring protein-rich quinoa, crisp cucumbers, sweet cherry tomatoes, tangy red onion, and creamy avocado.",
+      "servings": 2,
+      "tags": ["Salad", "quinoa", "healthy"]
+    },
+    {
+      "id": 12,
+      "name": "Vegetable Stir-Fry",
+      "photo_URL": "https://example.com/vegetable_stir_fry.jpg",
+      "duration": "20 minutes",
+      "ingredients": ["tofu", "broccoli", "bell peppers", "carrots", "soy sauce"],
+      "quantity": ["200g", "1 head", "2", "2", "3 tbsp"],
+      "preparation": "Press tofu to remove excess water, then cube it. Stir-fry tofu until golden. Add chopped broccoli, bell peppers, and sliced carrots. Cook until vegetables are tender. Stir in soy sauce.",
+      "description": "A healthy and satisfying stir-fry featuring protein-packed tofu and an array of colorful vegetables, all cooked in a savory soy sauce.",
+      "servings": 3,
+      "tags": ["Stir-fry", "tofu", "vegetarian"]
+    },
+    {
+      "id": 13,
+      "name": "Chickpea Curry",
+      "photo_URL": "https://example.com/chickpea_curry.jpg",
+      "duration": "30 minutes",
+      "ingredients": ["chickpeas", "onion", "tomato", "coconut milk", "curry powder"],
+      "quantity": ["2 cans", "1", "2", "400ml", "2 tbsp"],
+      "preparation": "Sauté chopped onion until translucent. Add diced tomato and cook until soft. Stir in drained chickpeas, coconut milk, and curry powder. Simmer until heated through.",
+      "description": "A flavorful vegan curry featuring tender chickpeas cooked in a creamy coconut sauce infused with aromatic curry spices.",
+      "servings": 4,
+      "tags": ["Curry", "chickpeas", "vegan"]
+    },
+    {
+      "id": 14,
+      "name": "Vegan Lentil Soup",
+      "photo_URL": "https://example.com/vegan_lentil_soup.jpg",
+      "duration": "40 minutes",
+      "ingredients": ["lentils", "carrots", "celery", "onion", "vegetable broth"],
+      "quantity": ["1 cup", "2", "2", "1", "4 cups"],
+      "preparation": "Rinse lentils and chop carrots, celery, and onion. In a pot, sauté chopped vegetables until softened. Add lentils and vegetable broth. Simmer until lentils are tender.",
+      "description": "A hearty and nutritious vegan soup featuring protein-rich lentils and an assortment of vegetables simmered in flavorful vegetable broth.",
+      "servings": 4,
+      "tags": ["Soup", "lentils", "vegan"]
+    },
+    {
+      "id": 15,
+      "name": "Mediterranean Chickpea Salad",
+      "photo_URL": "https://example.com/mediterranean_chickpea_salad.jpg",
+      "duration": "15 minutes",
+      "ingredients": ["chickpeas", "cucumber", "red bell pepper", "red onion", "kalamata olives"],
+      "quantity": ["1 can", "1", "1", "1/2", "1/4 cup"],
+      "preparation": "Rinse and drain chickpeas. Chop cucumber, red bell pepper, and red onion. Combine chickpeas and chopped vegetables with halved kalamata olives. Toss with olive oil and lemon juice.",
+      "description": "A refreshing and vibrant salad featuring protein-packed chickpeas, crisp cucumber, sweet bell pepper, tangy red onion, and briny kalamata olives, dressed with a simple olive oil and lemon dressing.",
+      "servings": 3,
+      "tags": ["Salad", "chickpeas", "Mediterranean", "vegan"]
+    }
+  ]
+}
