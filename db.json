@@ -4,7 +4,7 @@
       {
         "id": 1,
         "name": "Spaghetti Carbonara",
-        "photo_URL": "https://static01.nyt.com/images/2021/02/14/dining/carbonara-horizontal/carbonara-horizontal-master768-v2.jpg?w=1280&q=75",
+        "photo_URL": "https://www.kroger.com/content/v2/binary/image/imageset_simple-spaghetti-carbonara--30_simple-spaghetti-carbonara_evergreen-reshoot_p_22-tkc-0112_b.jpg",
         "duration": "30 minutes",
         "ingredients": ["spaghetti", "eggs", "bacon", "Parmesan cheese", "black pepper"],
         "quantity": ["300g", "2", "150g", "50g", "to taste"],
@@ -16,7 +16,7 @@
       {
         "id": 2,
         "name": "Chicken Stir-Fry",
-        "photo_URL": "https://www.allrecipes.com/thmb/wbWfb-cXCq1yd6NlpJR7z5Nr1Wc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/240708-broccoli-and-chicken-stir-fry-DDMFS-4x3-27886203cb2744f99d15247496019942.jpg",
+        "photo_URL": "https://www.eatingonadime.com/wp-content/uploads/2022/05/chicken-stir-fry-6-2.jpg",
         "duration": "25 minutes",
         "ingredients": ["chicken breast", "bell peppers", "onion", "soy sauce", "garlic"],
         "quantity": ["500g", "2", "1", "3 tbsp", "3 cloves"],
@@ -28,7 +28,7 @@
       {
         "id": 3,
         "name": "Caprese Salad",
-        "photo_URL": "https://i2.wp.com/www.downshiftology.com/wp-content/uploads/2019/07/Caprese-Salad-main-1.jpg",
+        "photo_URL": "https://natashasfoodadventures.com/wp-content/uploads/2023/02/caprese-salad-with-cherry-tomatoes-thumbnail-500x500.jpg",
         "duration": "10 minutes",
         "ingredients": ["tomatoes", "fresh mozzarella", "fresh basil", "balsamic vinegar", "olive oil"],
         "quantity": ["4", "200g", "1 bunch", "2 tbsp", "2 tbsp"],
@@ -40,7 +40,7 @@
       {
         "id": 4,
         "name": "Beef Tacos",
-        "photo_URL": "https://danosseasoning.com/wp-content/uploads/2022/03/Beef-Tacos-768x575.jpg",
+        "photo_URL": "https://supervalu.ie/thumbnail/800x600/var/files/real-food/recipes/2017/minced-beef-tacos-recipe.jpg",
         "duration": "20 minutes",
         "ingredients": ["ground beef", "taco seasoning", "tortillas", "lettuce", "tomatoes"],
         "quantity": ["500g", "1 packet", "8", "1 cup shredded", "2"],
@@ -76,7 +76,7 @@
       {
         "id": 7,
         "name": "Mushroom Risotto",
-        "photo_URL": "https://www.annarecetasfaciles.com/files/risotto-setas-1-2-scaled.jpg",
+        "photo_URL": "https://rainbowplantlife.com/wp-content/uploads/2023/01/Mushroom-Risotto-new-cover-photo-5x4-1-of-1-500x500.jpg",
         "duration": "35 minutes",
         "ingredients": ["Arborio rice", "mushrooms", "onion", "vegetable broth", "Parmesan cheese"],
         "quantity": ["1 cup", "200g", "1", "4 cups", "50g"],
@@ -88,7 +88,7 @@
       {
         "id": 8,
         "name": "Beef Stew",
-        "photo_URL": "https://www.allrecipes.com/thmb/qbGGkvMvNjvwUGd5mpaiVAIMTpg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/263037-instant-pot-beef-stew-mfs-beauty-4x3-BP-2467-3e45373d48544a7caf708248751a4c1c.jpg",
+        "photo_URL": "https://natashaskitchen.com/wp-content/uploads/2022/11/beef-stew-sq.jpg",
         "duration": "2 hours",
         "ingredients": ["beef stew meat", "potatoes", "carrots", "onion", "beef broth"],
         "quantity": ["500g", "3", "2", "1", "4 cups"],
@@ -124,7 +124,7 @@
     {
       "id": 11,
       "name": "Quinoa Salad",
-      "photo_URL": "https://cdn.loveandlemons.com/wp-content/uploads/2020/08/quinoa-salad.jpg",
+      "photo_URL": "https://wendypolisi.com/wp-content/uploads/2022/05/SQ-mediterranean-quinoa-salad-5.jpg",
       "duration": "25 minutes",
       "ingredients": ["quinoa", "cucumber", "cherry tomatoes", "red onion", "avocado"],
       "quantity": ["1 cup", "1", "1 cup", "1/2", "1"],
@@ -136,7 +136,7 @@
     {
       "id": 12,
       "name": "Vegetable Stir-Fry",
-      "photo_URL": "https://natashaskitchen.com/wp-content/uploads/2020/08/Vegetable-Stir-Fry-2.jpg",
+      "photo_URL": "https://www.noracooks.com/wp-content/uploads/2022/04/144A8635.jpg",
       "duration": "20 minutes",
       "ingredients": ["tofu", "broccoli", "bell peppers", "carrots", "soy sauce"],
       "quantity": ["200g", "1 head", "2", "2", "3 tbsp"],
@@ -172,7 +172,7 @@
     {
       "id": 15,
       "name": "Mediterranean Chickpea Salad",
-      "photo_URL": "https://joyfoodsunshine.com/wp-content/uploads/2022/07/mediterranean-chickpea-salad-recipe-1x1-1.jpg",
+      "photo_URL": "https://dishingouthealth.com/wp-content/uploads/2022/04/MediterraneanChickpeaSalad_Square.jpg",
       "duration": "15 minutes",
       "ingredients": ["chickpeas", "cucumber", "red bell pepper", "red onion", "kalamata olives"],
       "quantity": ["1 can", "1", "1", "1/2", "1/4 cup"],
