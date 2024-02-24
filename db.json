@@ -78,11 +78,26 @@
       "photo_URL": "https://natashasfoodadventures.com/wp-content/uploads/2023/02/caprese-salad-with-cherry-tomatoes-thumbnail-500x500.jpg",
       "duration": "10 minutes",
       "ingredientsList": [
-        {"ingredient": "tomatoes", "amount": "4"},
-        {"ingredient": "fresh mozzarella", "amount": "200g"},
-        {"ingredient": "fresh basil", "amount": "1 bunch"},
-        {"ingredient": "balsamic vinegar", "amount": "2 tbsp"},
-        {"ingredient": "olive oil", "amount": "2 tbsp"}
+        {
+          "ingredient": "tomatoes",
+          "amount": "4"
+        },
+        {
+          "ingredient": "fresh mozzarella",
+          "amount": "200g"
+        },
+        {
+          "ingredient": "fresh basil",
+          "amount": "1 bunch"
+        },
+        {
+          "ingredient": "balsamic vinegar",
+          "amount": "2 tbsp"
+        },
+        {
+          "ingredient": "olive oil",
+          "amount": "2 tbsp"
+        }
       ],
       "preparation": "Slice tomatoes and fresh mozzarella. Arrange alternating slices on a plate. Garnish with fresh basil leaves. Drizzle with balsamic vinegar and olive oil.",
       "description": "Simple and refreshing salad with ripe tomatoes, creamy mozzarella, and fragrant basil, drizzled with balsamic vinegar and olive oil.",
@@ -99,11 +114,26 @@
       "photo_URL": "https://supervalu.ie/thumbnail/800x600/var/files/real-food/recipes/2017/minced-beef-tacos-recipe.jpg",
       "duration": "20 minutes",
       "ingredientsList": [
-        {"ingredient": "ground beef", "amount": "500g"},
-        {"ingredient": "taco seasoning", "amount": "1 packet"},
-        {"ingredient": "tortillas", "amount": "8"},
-        {"ingredient": "lettuce", "amount": "1 cup shredded"},
-        {"ingredient": "tomatoes", "amount": "2"}
+        {
+          "ingredient": "ground beef",
+          "amount": "500g"
+        },
+        {
+          "ingredient": "taco seasoning",
+          "amount": "1 packet"
+        },
+        {
+          "ingredient": "tortillas",
+          "amount": "8"
+        },
+        {
+          "ingredient": "lettuce",
+          "amount": "1 cup shredded"
+        },
+        {
+          "ingredient": "tomatoes",
+          "amount": "2"
+        }
       ],
       "preparation": "Cook ground beef in a skillet, then stir in taco seasoning. Warm tortillas. Assemble tacos with beef, lettuce, and diced tomatoes.",
       "description": "Classic Mexican dish featuring seasoned ground beef stuffed into warm tortillas, topped with crisp lettuce and juicy tomatoes.",
@@ -120,11 +150,26 @@
       "photo_URL": "https://www.indianhealthyrecipes.com/wp-content/uploads/2023/07/vegetable-curry-recipe.jpg",
       "duration": "40 minutes",
       "ingredientsList": [
-        {"ingredient": "potatoes", "amount": "2"},
-        {"ingredient": "carrots", "amount": "2"},
-        {"ingredient": "onion", "amount": "1"},
-        {"ingredient": "coconut milk", "amount": "400ml"},
-        {"ingredient": "curry paste", "amount": "3 tbsp"}
+        {
+          "ingredient": "potatoes",
+          "amount": "2"
+        },
+        {
+          "ingredient": "carrots",
+          "amount": "2"
+        },
+        {
+          "ingredient": "onion",
+          "amount": "1"
+        },
+        {
+          "ingredient": "coconut milk",
+          "amount": "400ml"
+        },
+        {
+          "ingredient": "curry paste",
+          "amount": "3 tbsp"
+        }
       ],
       "preparation": "Dice potatoes and carrots. Chop onion. Cook vegetables in a pot with curry paste and coconut milk until tender.",
       "description": "A fragrant and comforting curry with tender potatoes, sweet carrots, and onions in a creamy coconut sauce infused with curry spices.",
@@ -141,11 +186,26 @@
       "photo_URL": "https://www.acouplecooks.com/wp-content/uploads/2020/05/Grilled-Salmon-015-1.jpg",
       "duration": "15 minutes",
       "ingredientsList": [
-        {"ingredient": "salmon fillets", "amount": "4"},
-        {"ingredient": "lemon", "amount": "1"},
-        {"ingredient": "olive oil", "amount": "2 tbsp"},
-        {"ingredient": "garlic", "amount": "2 cloves"},
-        {"ingredient": "salt", "amount": "to taste"}
+        {
+          "ingredient": "salmon fillets",
+          "amount": "4"
+        },
+        {
+          "ingredient": "lemon",
+          "amount": "1"
+        },
+        {
+          "ingredient": "olive oil",
+          "amount": "2 tbsp"
+        },
+        {
+          "ingredient": "garlic",
+          "amount": "2 cloves"
+        },
+        {
+          "ingredient": "salt",
+          "amount": "to taste"
+        }
       ],
       "preparation": "Rub salmon fillets with minced garlic, olive oil, and salt. Grill until fish is cooked through. Serve with lemon wedges.",
       "description": "Juicy grilled salmon seasoned with garlic and lemon, perfect for a quick and healthy dinner option.",
@@ -162,11 +222,26 @@
       "photo_URL": "https://rainbowplantlife.com/wp-content/uploads/2023/01/Mushroom-Risotto-new-cover-photo-5x4-1-of-1-500x500.jpg",
       "duration": "35 minutes",
       "ingredientsList": [
-        {"ingredient": "Arborio rice", "amount": "1 cup"},
-        {"ingredient": "mushrooms", "amount": "200g"},
-        {"ingredient": "onion", "amount": "1"},
-        {"ingredient": "vegetable broth", "amount": "4 cups"},
-        {"ingredient": "Parmesan cheese", "amount": "50g"}
+        {
+          "ingredient": "Arborio rice",
+          "amount": "1 cup"
+        },
+        {
+          "ingredient": "mushrooms",
+          "amount": "200g"
+        },
+        {
+          "ingredient": "onion",
+          "amount": "1"
+        },
+        {
+          "ingredient": "vegetable broth",
+          "amount": "4 cups"
+        },
+        {
+          "ingredient": "Parmesan cheese",
+          "amount": "50g"
+        }
       ],
       "preparation": "Sauté chopped onion and sliced mushrooms. Add Arborio rice and stir until coated. Gradually add vegetable broth while stirring until rice is cooked. Stir in grated Parmesan cheese.",
       "description": "Creamy and savory risotto infused with the earthy flavors of mushrooms and finished with a touch of Parmesan cheese.",
@@ -183,11 +258,26 @@
       "photo_URL": "https://natashaskitchen.com/wp-content/uploads/2022/11/beef-stew-sq.jpg",
       "duration": "120 minutes",
       "ingredientsList": [
-        {"ingredient": "Beef brisket or shanks", "amount": "500g"},
-        {"ingredient": "potatoes", "amount": "3"},
-        {"ingredient": "carrots", "amount": "2"},
-        {"ingredient": "onion", "amount": "1"},
-        {"ingredient": "beef broth", "amount": "4 cups"}
+        {
+          "ingredient": "Beef brisket or shanks",
+          "amount": "500g"
+        },
+        {
+          "ingredient": "potatoes",
+          "amount": "3"
+        },
+        {
+          "ingredient": "carrots",
+          "amount": "2"
+        },
+        {
+          "ingredient": "onion",
+          "amount": "1"
+        },
+        {
+          "ingredient": "beef broth",
+          "amount": "4 cups"
+        }
       ],
       "preparation": "Brown beef stew meat in a pot. Add chopped potatoes, carrots, and onion. Pour in beef broth. Simmer until meat is tender and vegetables are cooked.",
       "description": "Hearty and comforting stew with tender beef, potatoes, and carrots simmered in a rich and flavorful broth.",
@@ -204,11 +294,26 @@
       "photo_URL": "https://www.jessicagavin.com/wp-content/uploads/2022/06/chicken-caesar-salad-28-1200.jpg",
       "duration": "20 minutes",
       "ingredientsList": [
-        {"ingredient": "chicken breast", "amount": "2"},
-        {"ingredient": "romaine lettuce", "amount": "1 head"},
-        {"ingredient": "Parmesan cheese", "amount": "50g"},
-        {"ingredient": "croutons", "amount": "1 cup"},
-        {"ingredient": "Caesar dressing", "amount": "1/2 cup"}
+        {
+          "ingredient": "chicken breast",
+          "amount": "2"
+        },
+        {
+          "ingredient": "romaine lettuce",
+          "amount": "1 head"
+        },
+        {
+          "ingredient": "Parmesan cheese",
+          "amount": "50g"
+        },
+        {
+          "ingredient": "croutons",
+          "amount": "1 cup"
+        },
+        {
+          "ingredient": "Caesar dressing",
+          "amount": "1/2 cup"
+        }
       ],
       "preparation": "Grill chicken breast until cooked through. Chop romaine lettuce and slice chicken. Toss lettuce with grated Parmesan cheese, croutons, sliced chicken, and Caesar dressing.",
       "description": "A classic salad featuring grilled chicken, crisp romaine lettuce, crunchy croutons, and tangy Caesar dressing.",
@@ -225,12 +330,30 @@
       "photo_URL": "https://natashaskitchen.com/wp-content/uploads/2023/02/Penne-alla-Vodka-SQ.jpg",
       "duration": "35 minutes",
       "ingredientsList": [
-        {"ingredients": "penne pasta", "amount": "300g"},
-        {"ingredients": "butter", "amount": "30g"},
-        {"ingredients": "vodka", "amount": "1/4 cup"},
-        {"ingredients": "heavy cream", "amount": "1/2 cup"},
-        {"ingredients": "tomato paste", "amount": "80g"},
-        {"ingredients": "garlic", "amount": "3 cloves"}
+        {
+          "ingredients": "penne pasta",
+          "amount": "300g"
+        },
+        {
+          "ingredients": "butter",
+          "amount": "30g"
+        },
+        {
+          "ingredients": "vodka",
+          "amount": "1/4 cup"
+        },
+        {
+          "ingredients": "heavy cream",
+          "amount": "1/2 cup"
+        },
+        {
+          "ingredients": "tomato paste",
+          "amount": "80g"
+        },
+        {
+          "ingredients": "garlic",
+          "amount": "3 cloves"
+        }
       ],
       "preparation": "Cook penne pasta until al dente. In a separate pan, simmer minced garlic in butter. Add tomato paste and stir fry for 1 to 2 minutes, then deglaze with vodka. Pour in heavy cream and add pasta water until consistency is creamy. Toss cooked pasta in the sauce.",
       "description": "A creamy and indulgent pasta dish featuring penne tossed in a rich vodka-infused tomato cream sauce.",
@@ -247,11 +370,26 @@
       "photo_URL": "https://wendypolisi.com/wp-content/uploads/2022/05/SQ-mediterranean-quinoa-salad-5.jpg",
       "duration": "25 minutes",
       "ingredientsList": [
-        {"ingredient": "quinoa", "amount": "1 cup"},
-        {"ingredient": "cucumber", "amount": "1"},
-        {"ingredient": "cherry tomatoes", "amount": "1 cup"},
-        {"ingredient": "red onion", "amount": "1/2"},
-        {"ingredient": "avocado", "amount": "1"}
+        {
+          "ingredient": "quinoa",
+          "amount": "1 cup"
+        },
+        {
+          "ingredient": "cucumber",
+          "amount": "1"
+        },
+        {
+          "ingredient": "cherry tomatoes",
+          "amount": "1 cup"
+        },
+        {
+          "ingredient": "red onion",
+          "amount": "1/2"
+        },
+        {
+          "ingredient": "avocado",
+          "amount": "1"
+        }
       ],
       "preparation": "Cook quinoa according to package instructions. Chop cucumber, cherry tomatoes, and red onion. Mix cooked quinoa with chopped vegetables and diced avocado.",
       "description": "A nutritious and colorful salad featuring protein-rich quinoa, crisp cucumbers, sweet cherry tomatoes, tangy red onion, and creamy avocado.",
@@ -268,11 +406,26 @@
       "photo_URL": "https://www.noracooks.com/wp-content/uploads/2022/04/144A8635.jpg",
       "duration": "20 minutes",
       "ingredientsList": [
-        {"ingredient": "tofu", "amount": "200g"},
-        {"ingredient": "broccoli", "amount": "1 head"},
-        {"ingredient": "bell peppers", "amount": "2"},
-        {"ingredient": "carrots", "amount": "2"},
-        {"ingredient": "soy sauce", "amount": "3 tbsp"}
+        {
+          "ingredient": "tofu",
+          "amount": "200g"
+        },
+        {
+          "ingredient": "broccoli",
+          "amount": "1 head"
+        },
+        {
+          "ingredient": "bell peppers",
+          "amount": "2"
+        },
+        {
+          "ingredient": "carrots",
+          "amount": "2"
+        },
+        {
+          "ingredient": "soy sauce",
+          "amount": "3 tbsp"
+        }
       ],
       "preparation": "Press tofu to remove excess water, then cube it. Stir-fry tofu until golden. Add chopped broccoli, bell peppers, and sliced carrots. Cook until vegetables are tender. Stir in soy sauce.",
       "description": "A healthy and satisfying stir-fry featuring protein-packed tofu and an array of colorful vegetables, all cooked in a savory soy sauce.",
@@ -289,11 +442,26 @@
       "photo_URL": "https://www.indianhealthyrecipes.com/wp-content/uploads/2022/06/chickpea-curry-recipe.jpg",
       "duration": "30 minutes",
       "ingredientsList": [
-        {"ingredient": "chickpeas", "amount": "2 cans"},
-        {"ingredient": "onion", "amount": "1"},
-        {"ingredient": "tomatoes", "amount": "2"},
-        {"ingredient": "coconut milk", "amount": "400ml"},
-        {"ingredient": "curry powder", "amount": "2 tsp"}
+        {
+          "ingredient": "chickpeas",
+          "amount": "2 cans"
+        },
+        {
+          "ingredient": "onion",
+          "amount": "1"
+        },
+        {
+          "ingredient": "tomatoes",
+          "amount": "2"
+        },
+        {
+          "ingredient": "coconut milk",
+          "amount": "400ml"
+        },
+        {
+          "ingredient": "curry powder",
+          "amount": "2 tsp"
+        }
       ],
       "preparation": "Sauté chopped onion until translucent. Add diced tomato and cook until soft. Stir in drained chickpeas, coconut milk, and curry powder. Simmer until heated through.",
       "description": "A flavorful vegan curry featuring tender chickpeas cooked in a creamy coconut sauce infused with aromatic curry spices.",
@@ -310,11 +478,26 @@
       "photo_URL": "https://www.eatingwell.com/thmb/dLzQYccTdptLLN_-3KPjWnF9sCQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/vegan-medit-lentil-soup-1244-24a3c52cba884b00867fd834988c52b0.jpg",
       "duration": "40 minutes",
       "ingredientsList": [
-        {"ingredient": "lentils", "amount": "1 cup"},
-        {"ingredient": "carrots", "amount": "2"},
-        {"ingredient": "celery", "amount": "2"},
-        {"ingredient": "onion", "amount": "1"},
-        {"ingredient": "vegetable broth", "amount": "4 cups"}
+        {
+          "ingredient": "lentils",
+          "amount": "1 cup"
+        },
+        {
+          "ingredient": "carrots",
+          "amount": "2"
+        },
+        {
+          "ingredient": "celery",
+          "amount": "2"
+        },
+        {
+          "ingredient": "onion",
+          "amount": "1"
+        },
+        {
+          "ingredient": "vegetable broth",
+          "amount": "4 cups"
+        }
       ],
       "preparation": "Rinse lentils and chop carrots, celery, and onion. In a pot, sauté chopped vegetables until softened. Add lentils and vegetable broth. Simmer until lentils are tender.",
       "description": "A hearty and nutritious vegan soup featuring protein-rich lentils and an assortment of vegetables simmered in flavorful vegetable broth.",
@@ -331,11 +514,26 @@
       "photo_URL": "https://dishingouthealth.com/wp-content/uploads/2022/04/MediterraneanChickpeaSalad_Square.jpg",
       "duration": "15 minutes",
       "ingredientsList": [
-        {"ingredient": "chickpeas", "amount": "1 can"},
-        {"ingredient": "cucumber", "amount": "1"},
-        {"ingredient": "red bell pepper", "amount": "1"},
-        {"ingredient": "red onion", "amount": "1/2"},
-        {"ingredient": "kalamata olives", "amount": "1/4 cup"}
+        {
+          "ingredient": "chickpeas",
+          "amount": "1 can"
+        },
+        {
+          "ingredient": "cucumber",
+          "amount": "1"
+        },
+        {
+          "ingredient": "red bell pepper",
+          "amount": "1"
+        },
+        {
+          "ingredient": "red onion",
+          "amount": "1/2"
+        },
+        {
+          "ingredient": "kalamata olives",
+          "amount": "1/4 cup"
+        }
       ],
       "preparation": "Rinse and drain chickpeas. Chop cucumber, red bell pepper, and red onion. Combine chickpeas and chopped vegetables with halved kalamata olives. Toss with olive oil and lemon juice.",
       "description": "A refreshing and vibrant salad featuring protein-packed chickpeas, crisp cucumber, sweet bell pepper, tangy red onion, and briny kalamata olives, dressed with a simple olive oil and lemon dressing.",
@@ -353,16 +551,35 @@
       "photo_URL": "https://www.swankyrecipes.com/wp-content/uploads/2022/04/Best-Shrimp-Scampi-500x500.jpg",
       "duration": "20 minutes",
       "ingredientsList": [
-        {"ingredient": "shrimp", "amount": "400g"},
-        {"ingredient": "garlic", "amount": "4 cloves"},
-        {"ingredient": "white wine", "amount": "1/2 cup"},
-        {"ingredient": "lemon", "amount": "1"},
-        {"ingredient": "parsley", "amount": "2 tbsp"}
+        {
+          "ingredient": "shrimp",
+          "amount": "400g"
+        },
+        {
+          "ingredient": "garlic",
+          "amount": "4 cloves"
+        },
+        {
+          "ingredient": "white wine",
+          "amount": "1/2 cup"
+        },
+        {
+          "ingredient": "lemon",
+          "amount": "1"
+        },
+        {
+          "ingredient": "parsley",
+          "amount": "2 tbsp"
+        }
       ],
       "preparation": "Sauté minced garlic in olive oil. Add shrimp and cook until pink. Pour in white wine, squeeze lemon, and garnish with chopped parsley.",
       "description": "A delightful seafood dish featuring succulent shrimp cooked in a flavorful garlic and white wine sauce, brightened with fresh lemon and parsley.",
       "servings": 3,
-      "tags": ["Seafood 🦐", "Italian 🌎", "Quick & Easy ⚡"]
+      "tags": [
+        "Seafood 🦐",
+        "Italian 🌎",
+        "Quick & Easy ⚡"
+      ]
     },
     {
       "id": 17,
@@ -370,16 +587,35 @@
       "photo_URL": "https://omnivorescookbook.com/wp-content/uploads/2022/05/220503_Beef-And-Broccoli_550.jpg",
       "duration": "30 minutes",
       "ingredientsList": [
-        {"ingredient": "beef sirloin", "amount": "500g"},
-        {"ingredient": "broccoli", "amount": "1 head"},
-        {"ingredient": "soy sauce", "amount": "1/4 cup"},
-        {"ingredient": "ginger", "amount": "1 tbsp"},
-        {"ingredient": "rice", "amount": "rice"}
+        {
+          "ingredient": "beef sirloin",
+          "amount": "500g"
+        },
+        {
+          "ingredient": "broccoli",
+          "amount": "1 head"
+        },
+        {
+          "ingredient": "soy sauce",
+          "amount": "1/4 cup"
+        },
+        {
+          "ingredient": "ginger",
+          "amount": "1 tbsp"
+        },
+        {
+          "ingredient": "rice",
+          "amount": "rice"
+        }
       ],
       "preparation": "Slice beef thinly. Stir-fry beef until browned. Add broccoli and cook until tender. Mix soy sauce and ginger, pour over beef and broccoli. Serve over rice.",
       "description": "A classic stir-fry featuring tender beef, crisp broccoli, and a savory soy-ginger sauce served over a bed of fluffy rice.",
       "servings": 4,
-      "tags": ["Asian 🌏", "Stir-fry 🍜", "Beef 🥩"]
+      "tags": [
+        "Asian 🌏",
+        "Stir-fry 🍜",
+        "Beef 🥩"
+      ]
     },
     {
       "id": 18,
@@ -387,16 +623,35 @@
       "photo_URL": "https://www.blossmangas.com/wp-content/uploads/2021/05/Margherita-pizza-2.jpg",
       "duration": "15 minutes",
       "ingredientsList": [
-        {"ingredient": "pizza dough", "amount": "1 ball"},
-        {"ingredient": "tomatoes", "amount": "2"},
-        {"ingredient": "fresh mozzarella", "amount": "200g"},
-        {"ingredient": "basil", "amount": "1 bunch"},
-        {"ingredient": "olive oil", "amount": "2 tbsp"}
-       ],
+        {
+          "ingredient": "pizza dough",
+          "amount": "1 ball"
+        },
+        {
+          "ingredient": "tomatoes",
+          "amount": "2"
+        },
+        {
+          "ingredient": "fresh mozzarella",
+          "amount": "200g"
+        },
+        {
+          "ingredient": "basil",
+          "amount": "1 bunch"
+        },
+        {
+          "ingredient": "olive oil",
+          "amount": "2 tbsp"
+        }
+      ],
       "preparation": "Roll out pizza dough. Top with sliced tomatoes and fresh mozzarella. Bake until crust is golden. Garnish with fresh basil and drizzle with olive oil.",
       "description": "A simple and classic pizza featuring a thin crust topped with fresh tomatoes, creamy mozzarella, and fragrant basil, finished with a drizzle of olive oil.",
       "servings": 2,
-      "tags": ["Italian 🌍", "Pizza 🍕", "Vegetarian 🥦"]
+      "tags": [
+        "Italian 🌍",
+        "Pizza 🍕",
+        "Vegetarian 🥦"
+      ]
     },
     {
       "id": 19,
@@ -404,16 +659,35 @@
       "photo_URL": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/teriyaki-salmon-ce0b038.jpg?resize=768,574",
       "duration": "25 minutes",
       "ingredientsList": [
-        {"ingredient": "salmon fillets", "amount": "4"},
-        {"ingredient": "soy sauce", "amount": "1/3 cup"},
-        {"ingredient": "mirin", "amount": "2 tbsp"},
-        {"ingredient": "brown sugar", "amount": "2 tbsp"},
-        {"ingredient": "sesame seeds", "amount": "1 tbsp"}
+        {
+          "ingredient": "salmon fillets",
+          "amount": "4"
+        },
+        {
+          "ingredient": "soy sauce",
+          "amount": "1/3 cup"
+        },
+        {
+          "ingredient": "mirin",
+          "amount": "2 tbsp"
+        },
+        {
+          "ingredient": "brown sugar",
+          "amount": "2 tbsp"
+        },
+        {
+          "ingredient": "sesame seeds",
+          "amount": "1 tbsp"
+        }
       ],
       "preparation": "Whisk together soy sauce, mirin, and brown sugar. Marinate salmon in the mixture. Grill until cooked through. Sprinkle with sesame seeds.",
       "description": "Tender grilled salmon glazed with a sweet and savory teriyaki sauce, finished with a sprinkle of toasted sesame seeds.",
       "servings": 3,
-      "tags": ["Seafood 🐟", "Japanese 🌏", "Grilled ♨️"]
+      "tags": [
+        "Seafood 🐟",
+        "Japanese 🌏",
+        "Grilled ♨️"
+      ]
     },
     {
       "id": 20,
@@ -421,16 +695,35 @@
       "photo_URL": "https://www.skinnytaste.com/wp-content/uploads/2021/01/Spinach-Tomato-and-Feta-Stuffed-Chicken-Breast-9-500x500.jpg",
       "duration": "40 minutes",
       "ingredientsList": [
-        {"ingredient": "chicken breasts", "amount": "4"},
-        {"ingredient": "spinach", "amount": "2 cups"},
-        {"ingredient": "feta cheese", "amount": "1 cup"},
-        {"ingredient": "garlic", "amount": "3 cloves"},
-        {"ingredient": "olive oil", "amount": "2 tbsp"}
+        {
+          "ingredient": "chicken breasts",
+          "amount": "4"
+        },
+        {
+          "ingredient": "spinach",
+          "amount": "2 cups"
+        },
+        {
+          "ingredient": "feta cheese",
+          "amount": "1 cup"
+        },
+        {
+          "ingredient": "garlic",
+          "amount": "3 cloves"
+        },
+        {
+          "ingredient": "olive oil",
+          "amount": "2 tbsp"
+        }
       ],
       "preparation": "Butterfly chicken breasts. Sauté spinach and garlic in olive oil. Stuff chicken with spinach, feta, and garlic mixture. Bake until chicken is cooked through.",
       "description": "Juicy chicken breasts stuffed with a flavorful mixture of spinach, feta cheese, and garlic, baked to perfection.",
       "servings": 4,
-      "tags": ["Chicken 🐔", "Mediterranean 🌍", "Stuffed 🍽️"]
+      "tags": [
+        "Chicken 🐔",
+        "Mediterranean 🌍",
+        "Stuffed 🍽️"
+      ]
     },
     {
       "id": 21,
@@ -438,16 +731,35 @@
       "photo_URL": "https://simply-delicious-food.com/wp-content/uploads/2018/09/creamy-lemon-butter-prawn-pasta-3-500x500.jpg",
       "duration": "25 minutes",
       "ingredientsList": [
-        {"ingredient": "shrimp", "amount": "400g"},
-        {"ingredient": "linguine", "amount": "8 oz"},
-        {"ingredient": "lemon", "amount": "1"},
-        {"ingredient": "garlic", "amount": "4 cloves"},
-        {"ingredient": "parsley", "amount": "2 tbsp"}
+        {
+          "ingredient": "shrimp",
+          "amount": "400g"
+        },
+        {
+          "ingredient": "linguine",
+          "amount": "8 oz"
+        },
+        {
+          "ingredient": "lemon",
+          "amount": "1"
+        },
+        {
+          "ingredient": "garlic",
+          "amount": "4 cloves"
+        },
+        {
+          "ingredient": "parsley",
+          "amount": "2 tbsp"
+        }
       ],
       "preparation": "Cook linguine until al dente. Sauté shrimp in olive oil with minced garlic. Toss cooked pasta with shrimp, lemon juice, and chopped parsley.",
       "description": "A light and zesty pasta dish featuring succulent shrimp, linguine, and a refreshing lemon-garlic sauce, garnished with fresh parsley.",
       "servings": 3,
-      "tags": ["Seafood 🍤", "Pasta 🍝", "Quick & Easy ⚡"]
+      "tags": [
+        "Seafood 🍤",
+        "Pasta 🍝",
+        "Quick & Easy ⚡"
+      ]
     },
     {
       "id": 22,
@@ -455,16 +767,35 @@
       "photo_URL": "https://www.allrecipes.com/thmb/cSK3A01gkDP63H5O-eRv1qGmsdI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1001317-hawaiian-chicken-kabobs-lauralovinglife-1x1-1-041f0462b70e489d902080e754361645.jpg",
       "duration": "30 minutes",
       "ingredientsList": [
-      {"ingredient": "chicken thighs", "amount": "500g"},
-      {"ingredient": "pineapple chunks", "amount": "1 cup"},
-      {"ingredient": "bell peppers", "amount": "2"},
-      {"ingredient": "soy sauce", "amount": "1/3 cup"},
-      {"ingredient": "brown sugar", "amount": "2 tbsp"}
-    ],
+        {
+          "ingredient": "chicken thighs",
+          "amount": "500g"
+        },
+        {
+          "ingredient": "pineapple chunks",
+          "amount": "1 cup"
+        },
+        {
+          "ingredient": "bell peppers",
+          "amount": "2"
+        },
+        {
+          "ingredient": "soy sauce",
+          "amount": "1/3 cup"
+        },
+        {
+          "ingredient": "brown sugar",
+          "amount": "2 tbsp"
+        }
+      ],
       "preparation": "Thread chicken, pineapple, and bell peppers onto skewers. Grill until chicken is cooked. Mix soy sauce and brown sugar for basting.",
       "description": "Delicious grilled chicken skewers featuring a tropical blend of juicy pineapple, colorful bell peppers, and a sweet and savory soy glaze.",
       "servings": 4,
-      "tags": ["Chicken 🍗", "Grilled ♨️", "Hawaiian 🌺"]
+      "tags": [
+        "Chicken 🍗",
+        "Grilled ♨️",
+        "Hawaiian 🌺"
+      ]
     },
     {
       "id": 23,
@@ -472,16 +803,35 @@
       "photo_URL": "https://blueskyeating.com/wp-content/uploads/2020/10/Roasted-butternut-squash-risotto-500x500-1.jpg",
       "duration": "35 minutes",
       "ingredientsList": [
-        {"ingredient": "Arborio rice", "amount": "1 cup"},
-        {"ingredient": "butternut squash", "amount": "2 cups"},
-        {"ingredient": "onion", "amount": "1"},
-        {"ingredient": "vegetable broth", "amount": "4 cups"},
-        {"ingredient": "Parmesan cheese", "amount": "1/2 cup"}
+        {
+          "ingredient": "Arborio rice",
+          "amount": "1 cup"
+        },
+        {
+          "ingredient": "butternut squash",
+          "amount": "2 cups"
+        },
+        {
+          "ingredient": "onion",
+          "amount": "1"
+        },
+        {
+          "ingredient": "vegetable broth",
+          "amount": "4 cups"
+        },
+        {
+          "ingredient": "Parmesan cheese",
+          "amount": "1/2 cup"
+        }
       ],
       "preparation": "Sauté diced onion and cubed butternut squash. Add Arborio rice and stir. Gradually add vegetable broth while stirring until rice is cooked. Stir in grated Parmesan cheese.",
       "description": "Creamy and comforting risotto with the sweet and nutty flavor of butternut squash, finished with a generous sprinkle of Parmesan cheese.",
       "servings": 3,
-      "tags": ["Italian 🌎", "Risotto 🍚", "Vegetarian 🥣"]
+      "tags": [
+        "Italian 🌎",
+        "Risotto 🍚",
+        "Vegetarian 🥣"
+      ]
     },
     {
       "id": 24,
@@ -489,16 +839,35 @@
       "photo_URL": "https://keviniscooking.com/wp-content/uploads/2023/04/Southern-Pulled-Pork-Sandwich-square.jpg",
       "duration": "8 hours",
       "ingredientsList": [
-        {"ingredient": "pork shoulder", "amount": "2 kg"},
-        {"ingredient": "BBQ sauce", "amount": "2 cups"},
-        {"ingredient": "hamburger buns", "amount": "8"},
-        {"ingredient": "coleslaw", "amount": "2 cups"},
-        {"ingredient": "pickles", "amount": "to taste"}
+        {
+          "ingredient": "pork shoulder",
+          "amount": "2 kg"
+        },
+        {
+          "ingredient": "BBQ sauce",
+          "amount": "2 cups"
+        },
+        {
+          "ingredient": "hamburger buns",
+          "amount": "8"
+        },
+        {
+          "ingredient": "coleslaw",
+          "amount": "2 cups"
+        },
+        {
+          "ingredient": "pickles",
+          "amount": "to taste"
+        }
       ],
       "preparation": "Rub pork shoulder with BBQ seasoning. Slow-cook until tender. Shred meat and mix with BBQ sauce. Serve on buns with coleslaw and pickles.",
       "description": "Tender pulled pork sandwiches smothered in tangy BBQ sauce, topped with crisp coleslaw, and served with pickles for a satisfying bite.",
       "servings": 6,
-      "tags": ["BBQ 🍖", "Pork 🐖", "Sandwiches 🥪"]
+      "tags": [
+        "BBQ 🍖",
+        "Pork 🐖",
+        "Sandwiches 🥪"
+      ]
     },
     {
       "id": 25,
@@ -506,16 +875,35 @@
       "photo_URL": "https://assets.tmecosys.com/image/upload/t_web767x639/img/recipe/ras/Assets/9cffafab1d5436c0695bd417c6200a19/Derivates/400b7cd10996dc118063ff8c2028e2627e28bd36.jpg",
       "duration": "50 minutes",
       "ingredientsList": [
-        {"ingredient": "eggplant", "amount": "1"},
-        {"ingredient": "zucchini", "amount": "2"},
-        {"ingredient": "bell peppers", "amount": "2"},
-        {"ingredient": "tomatoes", "amount": "4"},
-        {"ingredient": "herbs de Provence", "amount": "1 tbsp"}
+        {
+          "ingredient": "eggplant",
+          "amount": "1"
+        },
+        {
+          "ingredient": "zucchini",
+          "amount": "2"
+        },
+        {
+          "ingredient": "bell peppers",
+          "amount": "2"
+        },
+        {
+          "ingredient": "tomatoes",
+          "amount": "4"
+        },
+        {
+          "ingredient": "herbs de Provence",
+          "amount": "1 tbsp"
+        }
       ],
       "preparation": "Slice vegetables thinly. Arrange in a baking dish, alternating. Drizzle with olive oil and sprinkle with herbs de Provence. Bake until vegetables are tender.",
       "description": "A visually stunning and flavorful dish featuring layers of beautifully arranged vegetables baked to perfection with aromatic herbs de Provence.",
       "servings": 4,
-      "tags": ["Vegetarian 🥦", "French 🌍", "Healthy ❤️"]
+      "tags": [
+        "Vegetarian 🥦",
+        "French 🌍",
+        "Healthy ❤️"
+      ]
     },
     {
       "id": 26,
@@ -523,16 +911,35 @@
       "photo_URL": "https://www.happyveggiekitchen.com/wp-content/uploads/2015/07/pestopastasquare.jpg",
       "duration": "15 minutes",
       "ingredientsList": [
-        {"ingredient": "pasta", "amount": "300g"},
-        {"ingredient": "basil pesto", "amount": "1/2 cup"},
-        {"ingredient": "cherry tomatoes", "amount": "1 cup"},
-        {"ingredient": "Parmesan cheese", "amount": "1/4 cup"},
-        {"ingredient": "pine nuts", "amount": "2 tbsp"}
+        {
+          "ingredient": "pasta",
+          "amount": "300g"
+        },
+        {
+          "ingredient": "basil pesto",
+          "amount": "1/2 cup"
+        },
+        {
+          "ingredient": "cherry tomatoes",
+          "amount": "1 cup"
+        },
+        {
+          "ingredient": "Parmesan cheese",
+          "amount": "1/4 cup"
+        },
+        {
+          "ingredient": "pine nuts",
+          "amount": "2 tbsp"
+        }
       ],
       "preparation": "Cook pasta until al dente. Toss with basil pesto. Add halved cherry tomatoes, grated Parmesan, and toasted pine nuts. Mix well.",
       "description": "A vibrant and flavorful pasta dish featuring al dente noodles coated in basil pesto, tossed with juicy cherry tomatoes, Parmesan cheese, and toasted pine nuts.",
       "servings": 3,
-      "tags": ["Italian 🌎", "Pasta 🍝", "Vegetarian 🥣"]
+      "tags": [
+        "Italian 🌎",
+        "Pasta 🍝",
+        "Vegetarian 🥣"
+      ]
     },
     {
       "id": 27,
@@ -540,16 +947,35 @@
       "photo_URL": "https://preppykitchen.com/wp-content/uploads/2023/02/Chicken-Alfredo-Recipe-Card-500x500.jpg",
       "duration": "30 minutes",
       "ingredientsList": [
-        {"ingredient": "fettuccine", "amount": "300g"},
-        {"ingredient": "chicken breast", "amount": "2"},
-        {"ingredient": "heavy cream", "amount": "1 cup"},
-        {"ingredient": "Parmesan cheese", "amount": "1 cup"},
-        {"ingredient": "butter", "amount": "1/2 cup"}
+        {
+          "ingredient": "fettuccine",
+          "amount": "300g"
+        },
+        {
+          "ingredient": "chicken breast",
+          "amount": "2"
+        },
+        {
+          "ingredient": "heavy cream",
+          "amount": "1 cup"
+        },
+        {
+          "ingredient": "Parmesan cheese",
+          "amount": "1 cup"
+        },
+        {
+          "ingredient": "butter",
+          "amount": "1/2 cup"
+        }
       ],
       "preparation": "Cook fettuccine until al dente. Sauté sliced chicken breast in butter. Add heavy cream and Parmesan cheese. Toss with cooked pasta.",
       "description": "Indulgent pasta dish featuring tender fettuccine noodles smothered in a rich Alfredo sauce made with succulent chicken, heavy cream, Parmesan cheese, and butter.",
       "servings": 4,
-      "tags": ["Italian 🌍", "Pasta 🍝", "Creamy"]
+      "tags": [
+        "Italian 🌍",
+        "Pasta 🍝",
+        "Creamy"
+      ]
     },
     {
       "id": 28,
@@ -557,16 +983,35 @@
       "photo_URL": "https://mycasualpantry.com/wp-content/uploads/2022/09/Chicken-with-Mango-Salsa2-1200-%C3%97-1200-px.jpg",
       "duration": "25 minutes",
       "ingredientsList": [
-        {"ingredient": "chicken thighs", "amount": "500g"},
-        {"ingredient": "mango", "amount": "1"},
-        {"ingredient": "red onion", "amount": "1/2"},
-        {"ingredient": "cilantro", "amount": "1/4 cup"},
-        {"ingredient": "lime juice", "amount": "2 tbsp"}
+        {
+          "ingredient": "chicken thighs",
+          "amount": "500g"
+        },
+        {
+          "ingredient": "mango",
+          "amount": "1"
+        },
+        {
+          "ingredient": "red onion",
+          "amount": "1/2"
+        },
+        {
+          "ingredient": "cilantro",
+          "amount": "1/4 cup"
+        },
+        {
+          "ingredient": "lime juice",
+          "amount": "2 tbsp"
+        }
       ],
       "preparation": "Grill chicken until cooked through. Combine diced mango, red onion, cilantro, and lime juice to make salsa. Serve chicken topped with mango salsa.",
       "description": "Grilled chicken thighs topped with a refreshing mango salsa featuring sweet mango, crisp red onion, fragrant cilantro, and a splash of lime juice.",
       "servings": 3,
-      "tags": ["Chicken 🍗", "Grilled ♨️", "Fruity 🍋"]
+      "tags": [
+        "Chicken 🍗",
+        "Grilled ♨️",
+        "Fruity 🍋"
+      ]
     },
     {
       "id": 29,
@@ -574,16 +1019,35 @@
       "photo_URL": "https://www.oatmealwithafork.com/wp-content/uploads/2016/06/Lemon-Herb-Quinoa-3-500x453.jpg",
       "duration": "20 minutes",
       "ingredientsList": [
-        {"ingredient": "quinoa", "amount": "1 cup"},
-        {"ingredient": "lemon", "amount": "1"},
-        {"ingredient": "fresh herbs", "amount": "1/4 cup"},
-        {"ingredient": "vegetable broth", "amount": "2 cups"},
-        {"ingredient": "olive oil", "amount": "2 tbsp"}
+        {
+          "ingredient": "quinoa",
+          "amount": "1 cup"
+        },
+        {
+          "ingredient": "lemon",
+          "amount": "1"
+        },
+        {
+          "ingredient": "fresh herbs",
+          "amount": "1/4 cup"
+        },
+        {
+          "ingredient": "vegetable broth",
+          "amount": "2 cups"
+        },
+        {
+          "ingredient": "olive oil",
+          "amount": "2 tbsp"
+        }
       ],
       "preparation": "Rinse quinoa. Cook quinoa in vegetable broth. Fluff with a fork and add lemon zest, fresh herbs, and a drizzle of olive oil.",
       "description": "Light and fluffy quinoa infused with the bright flavors of lemon and fresh herbs, perfect as a side dish or base for various protein options.",
       "servings": 3,
-      "tags": ["Quinoa", "Healthy ❤️", "Vegetarian 🌱"]
+      "tags": [
+        "Quinoa",
+        "Healthy ❤️",
+        "Vegetarian 🌱"
+      ]
     },
     {
       "id": 30,
@@ -591,16 +1055,35 @@
       "photo_URL": "https://sugarspunrun.com/wp-content/uploads/2023/02/Cajun-Shrimp-Pasta-Recipe-1-of-1.jpg",
       "duration": "25 minutes",
       "ingredientsList": [
-        {"ingredient": "shrimp", "amount": "400g"},
-        {"ingredient": "fettuccine", "amount": "300g"},
-        {"ingredient": "Cajun seasoning", "amount": "2 tsp"},
-        {"ingredient": "bell peppers", "amount": "2"},
-        {"ingredient": "cream", "amount": "1 cup"}
+        {
+          "ingredient": "shrimp",
+          "amount": "400g"
+        },
+        {
+          "ingredient": "fettuccine",
+          "amount": "300g"
+        },
+        {
+          "ingredient": "Cajun seasoning",
+          "amount": "2 tsp"
+        },
+        {
+          "ingredient": "bell peppers",
+          "amount": "2"
+        },
+        {
+          "ingredient": "cream",
+          "amount": "1 cup"
+        }
       ],
       "preparation": "Cook fettuccine until al dente. Sauté shrimp with Cajun seasoning. Add sliced bell peppers and cream. Toss with cooked pasta.",
       "description": "A spicy and creamy pasta dish featuring Cajun-seasoned shrimp, colorful bell peppers, and fettuccine noodles, creating a bold and flavorful combination.",
       "servings": 3,
-      "tags": ["Seafood 🍤", "Pasta 🍝", "Spicy 🌶️"]
+      "tags": [
+        "Seafood 🍤",
+        "Pasta 🍝",
+        "Spicy 🌶️"
+      ]
     }
   ]
 }
