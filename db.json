@@ -73,10 +73,9 @@
       ]
     },
     {
-      "id": 3,
       "name": "Caprese Salad",
       "photo_URL": "https://natashasfoodadventures.com/wp-content/uploads/2023/02/caprese-salad-with-cherry-tomatoes-thumbnail-500x500.jpg",
-      "duration": "10 minutes",
+      "duration": "10 mins",
       "ingredientsList": [
         {
           "ingredient": "tomatoes",
@@ -97,16 +96,21 @@
         {
           "ingredient": "olive oil",
           "amount": "2 tbsp"
+        },
+        {
+          "ingredient": "pepper",
+          "amount": "to taste"
         }
       ],
       "preparation": "Slice tomatoes and fresh mozzarella. Arrange alternating slices on a plate. Garnish with fresh basil leaves. Drizzle with balsamic vinegar and olive oil.",
-      "description": "Simple and refreshing salad with ripe tomatoes, creamy mozzarella, and fragrant basil, drizzled with balsamic vinegar and olive oil.",
+      "description": "Simple and refreshing salad with ripe tomatoes, creamy mozzarella, and fragrant basil, drizzled with balsamic vinegar and olive oil. Add pepper to taste",
       "servings": 2,
       "tags": [
         "Italian 🌎",
         "Salad 🥗",
         "Vegetarian 🥣"
-      ]
+      ],
+      "id": 3
     },
     {
       "id": 4,
@@ -331,27 +335,27 @@
       "duration": "35 minutes",
       "ingredientsList": [
         {
-          "ingredients": "penne pasta",
+          "ingredient": "penne pasta",
           "amount": "300g"
         },
         {
-          "ingredients": "butter",
+          "ingredient": "butter",
           "amount": "30g"
         },
         {
-          "ingredients": "vodka",
+          "ingredient": "vodka",
           "amount": "1/4 cup"
         },
         {
-          "ingredients": "heavy cream",
+          "ingredient": "heavy cream",
           "amount": "1/2 cup"
         },
         {
-          "ingredients": "tomato paste",
+          "ingredient": "tomato paste",
           "amount": "80g"
         },
         {
-          "ingredients": "garlic",
+          "ingredient": "garlic",
           "amount": "3 cloves"
         }
       ],
@@ -1084,6 +1088,38 @@
         "Pasta 🍝",
         "Spicy 🌶️"
       ]
+    },
+    {
+      "name": "Spaghetti Alio e Oglio",
+      "photo_URL": "https://www.example.com/img",
+      "duration": "28 mins",
+      "ingredientsList": [
+        {
+          "ingredient": "Spaghetti",
+          "amount": "200 g"
+        },
+        {
+          "ingredient": "olive oil",
+          "amount": "3 tbsp"
+        },
+        {
+          "ingredient": "garlic",
+          "amount": "3 cloves"
+        },
+        {
+          "ingredient": "salt and pepper",
+          "amount": "to taste"
+        }
+      ],
+      "preparation": "Put olive oil into a large pan on medium heat and add sliced garlic. Boil pasta in salted water until al dente. When the garlic is browned, add splashes of pasta water and let it bubble, then add parsley. Add pasta to the pan and coat in the sauce.",
+      "description": "Enjoy this simple yet satisfying pasta classic when your fridge is almost empty. Parsley is optional, add any grated italian cheese of your choice.",
+      "servings": "2",
+      "tags": [
+        "italian",
+        "vegan",
+        "easy"
+      ],
+      "id": 31
     }
   ]
 }
