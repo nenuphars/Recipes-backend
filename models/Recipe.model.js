@@ -1,8 +1,13 @@
 const mongoose = require("mongoose");
 
 const recipeSchema = new mongoose.Schema({
-  name: String,
-  photo_url: String,
+  name: {
+    type:String,
+    required:true
+  },
+  photo_url: {
+    type:String
+  },
   duration: Number,
   ingredientsList: [
     {

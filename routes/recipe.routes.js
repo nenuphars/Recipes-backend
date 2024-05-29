@@ -1,14 +1,37 @@
 const router = require('express').Router()
-const Recipe = require('../models/recipe.model')
+const Recipe = require('../models/Recipe.model')
 
 router.get("/", (req,res)=>{
     Recipe.find().then((allRecipes)=>{
-        res.statusCode(200).json(allRecipes)
+        res.status(200).json(allRecipes)
     })
     .catch((err)=>{
-        console.log(errs)
-        res.statusCode(400).json(err)
+        console.log(err)
+        res.status(400).json(err)
     })
 })
+
+router.get("/:id", (req,res)=>{
+    Recipe.findById(req.params.id)
+    .then((oneRecipe)=>{
+        console.log(oneRecipe)
+        res.status(200).json(newRecipe)
+    })
+    .catch((err)=>{
+        console.log(err)
+    })
+})
+
+router.post("/", (req,res)=>{
+    Recipe.create(req.body)
+    .then((newRecipe)=>{
+        res.status(201).json(newRecipe)
+    })
+    .catch((err)=>{
+        console.log(err)
+        res.status(400).json(err)
+    })
+})
+
 
 module.exports = router
