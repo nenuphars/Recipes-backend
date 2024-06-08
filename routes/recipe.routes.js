@@ -16,7 +16,7 @@ router.get("/:id", (req, res) => {
   Recipe.findById(req.params.id)
     .then((oneRecipe) => {
       console.log(oneRecipe);
-      res.status(200).json(newRecipe);
+      res.status(200).json(oneRecipe);
     })
     .catch((err) => {
       console.log(err);
