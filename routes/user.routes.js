@@ -1,8 +1,11 @@
 const router = require("express").Router();
+const { model } = require("mongoose");
 const User = require("../models/User.model");
 
 router.get("/", (req, res) => {
   User.find()
+  .select("-password")
+  .populate("recipes favourites")
     .then((allUsers) => {
       res.statusCode(200).json(allUsers);
     })
@@ -11,3 +14,5 @@ router.get("/", (req, res) => {
       res.statusCode(400).json(err);
     });
 });
+
+module.exports = router;
