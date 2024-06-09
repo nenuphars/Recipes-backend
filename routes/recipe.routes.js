@@ -35,4 +35,16 @@ router.post("/", (req, res) => {
     });
 });
 
+router.delete("/:id", (req, res) => {
+  Recipe.delete(req.params.id)
+    .then((deletedRecipe) => {
+      console.log("Successfully deleted a recipe");
+      res.status(200).json(deletedRecipe);
+    })
+    .catch((err) => {
+      console.log(err);
+      res.status(400).json(err);
+    });
+});
+
 module.exports = router;

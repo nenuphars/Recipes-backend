@@ -1,5 +1,4 @@
 const router = require("express").Router();
-const { model } = require("mongoose");
 const User = require("../models/User.model");
 
 router.get("/", (req, res) => {
