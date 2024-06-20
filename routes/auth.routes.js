@@ -20,20 +20,20 @@ const saltRounds = 10;
 // *** SIGN UP ROUTE 
 // Creates a new user in the database
 router.post("/signup", (req, res, next) => {
-  const { email, password, user_name } = req.body;
+  const { password, user_name } = req.body;
 
   // Check if email or password or name are provided as empty strings
-  if (email === "" || password === "" || user_name === "") {
+  if (password === "" || user_name === "") {
     res.status(400).json({ message: "Provide email, password and name" });
     return;
   }
 
   // This regular expression check that the email is of a valid format
-  const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]{2,}$/;
-  if (!emailRegex.test(email)) {
-    res.status(400).json({ message: "Provide a valid email address." });
-    return;
-  }
+  // const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]{2,}$/;
+  // if (!emailRegex.test(email)) {
+  //   res.status(400).json({ message: "Provide a valid email address." });
+  //   return;
+  // }
 
   // This regular expression checks password for special characters and minimum length
   const passwordRegex = /(?=.*\d)(?=.*[a-z])(?=.*[A-Z]).{6,}/;
@@ -45,10 +45,10 @@ router.post("/signup", (req, res, next) => {
     return;
   }
 
-  // Check the users collection if a user with the same email already exists
-  User.findOne({ email })
+  // Check the users collection if a user with the same username already exists
+  User.findOne({ user_name })
     .then((foundUser) => {
-      // If the user with the same email already exists, send an error response
+      // If the user with the same username already exists, send an error response
       if (foundUser) {
         res.status(400).json({ message: "User already exists." });
         return;
@@ -60,15 +60,15 @@ router.post("/signup", (req, res, next) => {
 
       // Create the new user in the database
       // We return a pending promise, which allows us to chain another `then`
-      return User.create({ email, password: hashedPassword, user_name });
+      return User.create({ password: hashedPassword, user_name });
     })
     .then((createdUser) => {
       // Deconstruct the newly created user object to omit the password
       // We should never expose passwords publicly
-      const { email, user_name, _id } = createdUser;
+      const { user_name, _id } = createdUser;
 
       // Create a new object that doesn't expose the password
-      const user = { email, user_name, _id };
+      const user = { user_name, _id };
 
       // Send a json response containing the user object
       res.status(201).json({ user: user });
@@ -79,18 +79,18 @@ router.post("/signup", (req, res, next) => {
 
 
 // *** LOGIN ROUTE 
-// Verifies email and password and returns a JWT
+// Verifies username and password and returns a JWT
 router.post("/login", (req, res, next) => {
-  const { email, password } = req.body;
+  const { user_name, password } = req.body;
 
-  // Check if email or password are provided as empty string
-  if (email === "" || password === "") {
-    res.status(400).json({ message: "Provide email and password." });
+  // Check if username or password are provided as empty string
+  if (user_name === "" || password === "") {
+    res.status(400).json({ message: "Provide username and password." });
     return;
   }
 
-  // Check the users collection if a user with the same email exists
-  User.findOne({ email })
+  // Check the users collection if a user with the same username exists
+  User.findOne({ user_name })
     .then((foundUser) => {
       if (!foundUser) {
         // If the user is not found, send an error response
@@ -103,10 +103,10 @@ router.post("/login", (req, res, next) => {
 
       if (passwordCorrect) {
         // Deconstruct the user object to omit the password
-        const { _id, email, user_name } = foundUser;
+        const { _id, user_name } = foundUser;
 
         // Create an object that will be set as the token payload
-        const payload = { _id, email, user_name };
+        const payload = { _id, user_name };
 
         // Create a JSON Web Token and sign it
         const authToken = jwt.sign(payload, process.env.TOKEN_SECRET, {
