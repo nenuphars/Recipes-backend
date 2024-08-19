@@ -1,7 +1,7 @@
-const router = require("express").Router();
-const Recipe = require("../models/Recipe.model");
+const router = require('express').Router();
+const Recipe = require('../models/Recipe.model');
 
-router.get("/", (req, res) => {
+router.get('/all', (req, res) => {
   Recipe.find()
     .then((allRecipes) => {
       res.status(200).json(allRecipes);
@@ -12,7 +12,7 @@ router.get("/", (req, res) => {
     });
 });
 
-router.get("/:id", (req, res) => {
+router.get('/search-id/:id', (req, res) => {
   Recipe.findById(req.params.id)
     .then((oneRecipe) => {
       console.log(oneRecipe);
@@ -23,7 +23,21 @@ router.get("/:id", (req, res) => {
     });
 });
 
-router.post("/", (req, res) => {
+router.get('/search/:creator', (req, res) => {
+  const query = req.params.creator;
+
+  Recipe.find({ creator: query })
+    .then((recipes) => {
+      console.log(recipes);
+      res.status(200).json(recipes);
+    })
+    .catch((err) => {
+      console.log(err);
+      res.status(400).json(err);
+    });
+});
+
+router.post('/', (req, res) => {
   Recipe.create(req.body)
     .then((newRecipe) => {
       console.log(newRecipe);
@@ -35,10 +49,10 @@ router.post("/", (req, res) => {
     });
 });
 
-router.delete("/:id", (req, res) => {
+router.delete('/:id', (req, res) => {
   Recipe.findByIdAndDelete(req.params.id)
     .then((deletedRecipe) => {
-      console.log("Successfully deleted a recipe");
+      console.log('Successfully deleted a recipe');
       res.status(200).json(deletedRecipe);
     })
     .catch((err) => {
