@@ -64,6 +64,15 @@ router.post('/', (req, res) => {
     });
 });
 
+router.patch('/:id', (req, res) => {
+  Recipe.findByIdAndUpdate(req.params.id, req.body, { new: true }).then(
+    (updatedRecipe) => {
+      console.log('Updated a recipe');
+      res.status(200).json(updatedRecipe);
+    }
+  );
+});
+
 router.delete('/:id', (req, res) => {
   Recipe.findByIdAndDelete(req.params.id)
     .then((deletedRecipe) => {
