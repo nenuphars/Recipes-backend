@@ -4,6 +4,7 @@ const Recipe = require('../models/Recipe.model');
 
 router.get('/', (req, res) => {
   Recipe.find()
+    .populate('creator')
     .then((allRecipes) => {
       res.status(200).json(allRecipes);
     })
@@ -19,6 +20,7 @@ router.get('/search', (req, res) => {
 
   if (query._id) {
     Recipe.findById(query._id)
+      .populate('creator')
       .then((oneRecipe) => {
         console.log(oneRecipe);
         res.status(200).json(oneRecipe);
@@ -29,6 +31,7 @@ router.get('/search', (req, res) => {
   }
 
   Recipe.find(query)
+    .populate('creator')
     .then((searchResult) => {
       console.log(searchResult);
       res.status(200).json(searchResult);
@@ -43,6 +46,7 @@ router.get('/search', (req, res) => {
 
 router.get('/:id', (req, res) => {
   Recipe.findById(req.params.id)
+    .populate('creator')
     .then((oneRecipe) => {
       console.log(oneRecipe);
       res.status(200).json(oneRecipe);
