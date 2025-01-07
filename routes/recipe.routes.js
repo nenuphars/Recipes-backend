@@ -30,19 +30,6 @@ router.get('/search/:id', (req, res) => {
     .catch((err) => {
       console.log(err);
     });
-
-  // Recipe.find(query)
-  //   .populate('creator')
-  //   .then((searchResult) => {
-  //     console.log(searchResult);
-  //     res.status(200).json(searchResult);
-  //     if (!searchResult) {
-  //       res.status(404).json('no results');
-  //     }
-  //   })
-  //   .catch((err) => {
-  //     console.log(err);
-  //   });
 });
 
 router.get('/:id', (req, res) => {
