@@ -24,11 +24,12 @@ router.get('/search/:id', (req, res) => {
       console.log(searchResult);
       res.status(200).json(searchResult);
       if (!searchResult) {
-        res.status(404).json('no results');
+        res.status(404).json('No recipes found in user');
       }
     })
     .catch((err) => {
       console.log(err);
+      res.status(400).json(err);
     });
 });
 
@@ -59,7 +60,7 @@ router.post('/', (req, res) => {
 router.patch('/:id', (req, res) => {
   Recipe.findByIdAndUpdate(req.params.id, req.body, { new: true }).then(
     (updatedRecipe) => {
-      console.log('Updated a recipe');
+      console.log('Updated a recipe', updatedRecipe);
       res.status(200).json(updatedRecipe);
     }
   );
