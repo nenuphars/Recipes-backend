@@ -1,6 +1,8 @@
 const router = require('express').Router();
 const { query } = require('express');
 const Recipe = require('../models/Recipe.model');
+const User = require('../models/User.model');
+const { search } = require('./user.routes');
 
 router.get('/', (req, res) => {
   Recipe.find()
@@ -14,33 +16,20 @@ router.get('/', (req, res) => {
     });
 });
 
-router.get('/search', (req, res) => {
-  console.log(req.params);
-  let query = req.params;
-
-  if (query._id) {
-    Recipe.findById(query._id)
-      .populate('creator')
-      .then((oneRecipe) => {
-        console.log(oneRecipe);
-        res.status(200).json(oneRecipe);
-      })
-      .catch((err) => {
-        console.log(err);
-      });
-  }
-
-  Recipe.find(query)
+// Get recipes by creator
+router.get('/search/:id', (req, res) => {
+  Recipe.find({ creator: req.params.id })
     .populate('creator')
     .then((searchResult) => {
       console.log(searchResult);
       res.status(200).json(searchResult);
       if (!searchResult) {
-        res.status(404).json('no results');
+        res.status(404).json('No recipes found in user');
       }
     })
     .catch((err) => {
       console.log(err);
+      res.status(400).json(err);
     });
 });
 
@@ -71,7 +60,7 @@ router.post('/', (req, res) => {
 router.patch('/:id', (req, res) => {
   Recipe.findByIdAndUpdate(req.params.id, req.body, { new: true }).then(
     (updatedRecipe) => {
-      console.log('Updated a recipe');
+      console.log('Updated a recipe', updatedRecipe);
       res.status(200).json(updatedRecipe);
     }
   );
