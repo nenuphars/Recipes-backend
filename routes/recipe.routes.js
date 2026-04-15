@@ -1,8 +1,5 @@
 const router = require('express').Router();
-const { query } = require('express');
 const Recipe = require('../models/Recipe.model');
-const User = require('../models/User.model');
-const { search } = require('./user.routes');
 
 router.get('/', (req, res) => {
   Recipe.find()
@@ -62,7 +59,7 @@ router.patch('/:id', (req, res) => {
     (updatedRecipe) => {
       console.log('Updated a recipe', updatedRecipe);
       res.status(200).json(updatedRecipe);
-    }
+    },
   );
 });
 

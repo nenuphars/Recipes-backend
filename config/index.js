@@ -21,12 +21,12 @@ module.exports = (app) => {
   // Services like Fly use something called a proxy and you need to add this to your server
   app.set('trust proxy', 1);
 
-  // controls a very specific header to pass headers from the frontend
-  app.use(
-    cors({
-      origin: [FRONTEND_URL],
-    }),
-  );
+  var corsOptions = {
+    origin: process.env.FRONTEND_URL,
+    optionsSuccessStatus: 200, // some legacy browsers (IE11, various SmartTVs) choke on 204
+  };
+
+  app.use(cors(corsOptions));
 
   // In development environment the app logs
   app.use(logger('dev'));
