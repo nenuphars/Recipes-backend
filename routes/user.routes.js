@@ -6,11 +6,11 @@ router.get("/", (req, res) => {
   .select("-password")
   .populate("recipes favourites")
     .then((allUsers) => {
-      res.statusCode(200).json(allUsers);
+      res.status(200).json(allUsers);
     })
     .catch((err) => {
       console.log(err);
-      res.statusCode(400).json(err);
+      res.status(400).json(err);
     });
 });
 
